@@ -1,4 +1,5 @@
 # websatu
-basic html end css beginer
-## project url
+Basic HTML and CSS beginner project
+
+## Project URL
 https://yanzy12.github.io/websatu/
